@@ -1,0 +1,13 @@
+.card-food-img {
+  height: 200px;
+}
+
+#carousel {
+  max-height: 500px;
+}
+.carouselExampleFade {
+  object-fit: cover;
+}
+.carousel-pic {
+  height: 500px;
+}
